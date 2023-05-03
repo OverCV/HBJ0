@@ -8,7 +8,7 @@ function App() {
         <div className="card">
           <div className="imgBox">
             <div className="bark"></div>
-            <img src={img} alt="" />
+            <img src={img} />
           </div>
           <div className="details">
             <h4 className='color1'>¡Feliz cumpleaños Nete!</h4>
